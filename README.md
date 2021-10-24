@@ -1,7 +1,7 @@
 # Path8
 
 
-<img src="https://github.com/neoscotch/OpenRE/blob/main/Asset1.png" width="20%" />
+<img src="https://raw.githubusercontent.com/neoscotch/Path8/main/logo.png" width="20%" />
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneoscotch%2FOpenRE?ref=badge_large)
 
